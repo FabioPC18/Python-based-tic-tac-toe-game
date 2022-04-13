@@ -1,7 +1,7 @@
 # Python-based-tic-tac-toe-game
 I made this tic tac toe game as a final project from the course Programming Essentials in Python Part 1 by Cisco Networking Academy in collaboration with OpenEDG Python Institute.
 
-The task is to write **a simple program wich pretends to play tic-tac-toe with the user**. Here are the assumptios:
+The task is to write **a simple program that pretends to play tic-tac-toe with the user**. Here are the assumptions:
 
 - the computer (your program) shloud play the game using 'X's (don't implement any form of artificial intelligence − a random field choice made by the computer is good enough for the game);
 - the user (you) shloud play the game using 'O's;
