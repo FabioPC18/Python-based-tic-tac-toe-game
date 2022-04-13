@@ -14,7 +14,7 @@ The task is to write **a simple program that pretends to play tic-tac-toe with t
 
 # Bugs and bad practices
 
-The program has a few bugs and bad practice things to fix and modify:
+The program has a few bugs and bad practice things that I will be fixing:
 
 **Bugs identified until now:**
 
