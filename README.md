@@ -26,3 +26,4 @@ The program has a few bugs and bad practice things to fix and modify:
  - [ ] There are variables names in spanish and english.
  - [ ] There are some variables in snake case and others in camel case.
  - [ ] Variables with no meaningful names.
+ - [ ] The program should have more comments describing what each part of the program does
