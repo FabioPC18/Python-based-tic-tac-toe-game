@@ -1,5 +1,5 @@
 # Python-based-tic-tac-toe-game
-Final project from Programming Essentials in Python Part 1 by Cisco Networking Academy in collaboration with OpenEDG Python Institute.
+I made this tic tac toe game as a final project for Programming Essentials in Python Course Part 1 by Cisco Networking Academy in collaboration with OpenEDG Python Institute.
 
 The task is to write **a simple program wich pretends to play tic-tac-toe with the user**. Here are the assumptios:
 
